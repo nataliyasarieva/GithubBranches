@@ -14,4 +14,8 @@ public class MyClass {
 
     public String str4 = "This is a String created in the techpro branch.";
 
+    //Techpro Branch, version: t2
+
+    public String str5 = "This is another String created in the techpro branch.";
+
 }
